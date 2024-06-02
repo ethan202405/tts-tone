@@ -78,4 +78,4 @@
 | 1392   | 女声   |                   | 10    |
 | 1422   | 男声   |                   | 9     |
 | 1471   | 男声   |                   | 9.5   |
-[播放音频](https://github.com/ethan202405/tts-tone/blob/main/824.wav)
+
