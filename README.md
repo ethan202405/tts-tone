@@ -78,3 +78,7 @@
 | 1392   | 女声   |                   | 10    |
 | 1422   | 男声   |                   | 9     |
 | 1471   | 男声   |                   | 9.5   |
+<audio controls>
+  <source src="https://github.com/ethan202405/tts-tone/blob/main/1003.wav" type="audio/mpeg">
+  您的浏览器不支持 audio 元素。
+</audio>
